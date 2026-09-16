@@ -1,6 +1,6 @@
 # 🏨 Sistema de Gerenciamento de Reservas de Hotel
 
-API REST desenvolvida em **Java com Spring Boot** para gerenciamento de reservas de hotel, usuários e autenticação. O projeto foi desenvolvido com foco em **boas práticas de desenvolvimento backend**, separação de responsabilidades, segurança, validação de dados, tratamento de exceções e persistência em banco de dados relacional.
+API RESTful desenvolvida em **Java com Spring Boot** para gerenciamento de reservas de hotel, usuários e autenticação. O projeto foi desenvolvido com foco em **boas práticas de desenvolvimento backend**, separação de responsabilidades, segurança, validação de dados, tratamento de exceções e persistência em banco de dados relacional.
 
 ---
 
